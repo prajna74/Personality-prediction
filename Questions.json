@@ -1,0 +1,38 @@
+[
+    {    
+        
+        "1": "Do you enjoy wild flights of fantasy?",
+        "2": "Enjoy thinking about things?",
+        "3": "Believe in importance of art?",
+        "4": "Tend to vote for liberal political candidates",
+        "5": "Avoid philosophical discussions",
+        "6": "Dislike yourself?",
+        "7": "Are you filled with doubt about things?",
+        "8": "Are you relaxed most of the time?",
+        "9": "Seldom get mad?",
+        "10": "Get upset eaily",
+        "11": "Do you follow a regular schedule?",
+        "12": "Are you always prepared ?",
+        "13": "Are you exacting in your work?",
+        "14": "Do you play attention to details?",
+        "15": "Do you waste time?",
+        "16": "Do you think you sympathise with others easily?",
+        "17": "Do you take out some of your time for others",
+        "18": "You feel others emotions?",
+        "19": "Can you make others feel at ease",
+        "20": "Are you interested in other people's life?",
+        "21": "Do you feel comforatble around people?",
+        "22.": "At parties, do you often talk to different people?",
+        "23.":"Do you mind being center of attention",
+        "24.": "Are you the life of the party?(Party animal)",
+	    "25": "Do you talk a lot"
+    },
+    {
+        "1":["Fully Agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Totally disagree"
+          ]
+    }
+]
